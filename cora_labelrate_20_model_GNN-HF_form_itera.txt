@@ -1,0 +1,6 @@
+
+model_GNN-HF_form_itera
+Early stopping: Accuracy: 81.86 ± 0.26%
+Test: ACC: 83.29 ± 0.28%
+Runtime: 40.157 ± 8.826 sec, per epoch: 28.50 ± 4.58ms
+
